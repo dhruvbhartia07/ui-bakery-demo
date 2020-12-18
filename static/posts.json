@@ -8,7 +8,7 @@
    "post": "Vault secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing."
   },
   {
-   "id": 3
+   "id": 3,
    "post": "Artifactory is a product by JFrog that serves as a binary repository manager. ... The binary repository is a natural extension to the source code repository, in that it will store the outcome of your build process, often denoted as artifacts."
   }
 ]
