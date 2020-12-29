@@ -8,7 +8,19 @@
   {
     "logo_url": "https://media.jfrog.com/wp-content/uploads/2017/12/20133018/artifactory.png",
     "name": "Artifactory",
+    "type": "Repository",
+    "description": "As the world’s first universal repository, JFrog Artifactory is the mission-critical heart of the JFrog Platform functioning as the single source of truth for all packages, container images and Helm charts, as they move across the entire DevOps pipeline."
+  },
+  {
+    "logo_url": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png",
+    "name": "Gitlab 2",
+    "type": "Repository2",
+    "description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc. The software was created by Ukrainian developers Dmitriy Zaporozhets and Valery Sizov."
+  },
+  {
+    "logo_url": "https://media.jfrog.com/wp-content/uploads/2017/12/20133018/artifactory.png",
+    "name": "Artifactory 2",
     "type": "Repository2",
     "description": "As the world’s first universal repository, JFrog Artifactory is the mission-critical heart of the JFrog Platform functioning as the single source of truth for all packages, container images and Helm charts, as they move across the entire DevOps pipeline."
-  }
+  },
 ]
